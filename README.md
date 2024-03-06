@@ -13,7 +13,7 @@
 To deploy this project open cmd and run the jar file by taking it in the releases section.
 
 ```bash
-  java -jar TamagotchiCLI.jar
+java -jar TamagotchiCLI.jar
 ```
 
 
